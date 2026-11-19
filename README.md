@@ -57,6 +57,11 @@ A miniature autonomous vehicle designed to follow road rules: lane detection, ob
   <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
+### 💡 Featured Projects
+
+- 📚 **Sorélia**: a student-focused mobile app built with Flutter to manage academic information and school performance.
+- 🌍 **GreenMap**: a pharmacy-focused project with backend development, database architecture and access control using Supabase.
+- 🎮 **Infinite Quest**: a game project focused on exploration, storytelling and interactive experiences.
 
 **Components**
 - 🚗 **Car**: Raspberry Pi, camera, ultrasonic sensors, motor driver, Python + OpenCV,tensorflow
