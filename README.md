@@ -26,7 +26,7 @@
 ### 💻 Software
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dart,flutter,python,nextjs,nodejs,firebase,supabase,git,github,vscode,figma,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,python,nextjs,nodejs,firebase,supabase,git,github,vscode,figma,androidstudio,opencv ,tensorflow" />
 </p>
 
 ### 🔌 Electronics & IoT
