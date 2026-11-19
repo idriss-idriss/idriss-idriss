@@ -45,6 +45,25 @@
 
 <br/>
 
+## 🔧 Hardware Projects
+
+### 🚗 SmartCar *(en cours)*
+A miniature autonomous vehicle designed to follow road rules: lane detection, obstacle avoidance, and recognition of traffic lights and road signs. Includes a companion mobile app to control and monitor the car in real time.
+
+<p>
+  <img src="https://img.shields.io/badge/Status-In%20Progress-F59E0B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+
+**Components**
+- 🚗 **Car**: Raspberry Pi, camera, ultrasonic sensors, motor driver, Python + OpenCV
+- 📱 **Mobile app**: Flutter / Dart remote control with live video and status dashboard
+
+📂 Full roadmap and progress: [SmartCar repository](https://github.com/idriss-idriss/SmartCar)
+
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idriss-idriss&layout=compact&hide=html,css,c%2B%2B,cmake,swift,c,objective-c,kotlin,shell,javascript,typescript&bg_color=000000&title_color=7ee02a&text_color=ffffff&border_color=ffffff&title=Most%20Used%20Languages" alt="Most used languages" />
   &nbsp;&nbsp;&nbsp;&nbsp;
