@@ -1,5 +1,9 @@
 <h1 align="center">👋 Hey there, I'm Idriss! 👋</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7EE02A&center=true&vCenter=true&width=700&lines=Software+Developer;Electronics+Enthusiast;Building+Circuits+%26+Digital+Solutions;Exploring+Microcontrollers+%26+Raspberry+Pi;Discovering+the+World+of+IoT" alt="Typing SVG" />
+</p>
+
 <h3 align="center">Software Developer | Electronics Enthusiast | Exploring IoT</h3>
 
 <p align="center">
@@ -19,8 +23,24 @@
 
 - 🌱 Currently learning about IoT and how software and hardware work together.
 
+### 💻 Software
+
 <p>
   <img src="https://skillicons.dev/icons?i=dart,flutter,python,js,ts,nextjs,nodejs,firebase,supabase,git,github,vscode,figma,androidstudio" />
+</p>
+
+### 🔌 Electronics & IoT
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp,linux" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Microcontrollers-ESP32%20%7C%20Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-Projects-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Circuits-Soldering%20%26%20Assembly-F59E0B?style=for-the-badge&logo=circuitverse&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT-Connected%20Devices-7EE02A?style=for-the-badge&logo=mqtt&logoColor=black" />
+  <img src="https://img.shields.io/badge/Automation-Smart%20Systems-4A9EFF?style=for-the-badge&logo=homeassistant&logoColor=white" />
 </p>
 
 <br/>
