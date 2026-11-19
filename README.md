@@ -59,10 +59,10 @@ A miniature autonomous vehicle designed to follow road rules: lane detection, ob
 </p>
 
 **Components**
-- 🚗 **Car**: Raspberry Pi, camera, ultrasonic sensors, motor driver, Python + OpenCV
+- 🚗 **Car**: Raspberry Pi, camera, ultrasonic sensors, motor driver, Python + OpenCV,tensorflow
 - 📱 **Mobile app**: Flutter / Dart remote control with live video and status dashboard
 
-📂 Full roadmap and progress: [SmartCar repository](https://github.com/idriss-idriss/SmartCar)
+🔒 *Repository will be made public after .*
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idriss-idriss&layout=compact&hide=html,css,c%2B%2B,cmake,swift,c,objective-c,kotlin,shell,javascript,typescript&bg_color=000000&title_color=7ee02a&text_color=ffffff&border_color=ffffff&title=Most%20Used%20Languages" alt="Most used languages" />
