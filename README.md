@@ -63,7 +63,7 @@ An embedded systems project combining Python, computer vision and a Flutter mobi
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
-🔒 *Repository will be made public after the competition.*
+🔒 *Repository will be made public after .*
 
 <br/>
 
